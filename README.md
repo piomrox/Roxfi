@@ -14,9 +14,9 @@ $ pkg install -y root-repo
 
 $ pkg install -y git tsu python wpa-supplicant pixiewps iw
 
-$ git clone https://github.com/piomrox/Rox.git
+$ git clone https://github.com/piomrox/Rox
 
-$ cd Wifi_Hack
+$ cd Rox
 
 $ chmod +x roxhack.py
 
