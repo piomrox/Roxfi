@@ -23,7 +23,8 @@ Telegram:https://m.me/cool.piomrox
 
 Copy This Code:\nsudo python Rox/roxhack.py -i wlan0 -K\n
 
-For Help Type:\npython Rox/roxhack.py --help\033[0m
+
+Full Tutorial:\nhttps://f1r3-str0m.blogspot.com/2021/08/hack-wifi-with-termux-root-required.html\033[0m
 ''')
 class NetworkAddress:
     def __init__(self, mac):
