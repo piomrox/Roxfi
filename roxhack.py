@@ -19,7 +19,8 @@ from typing import Dict
 
 print('''
 \033[1;92m Recoded By PiomroX
-Telegram:https://m.me/cool.piomrox
+
+Telegram:https://t.me/piomroxx
 
 Copy This Code:\nsudo python Rox/roxhack.py -i wlan0 -K\n
 
