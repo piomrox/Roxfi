@@ -20,7 +20,9 @@ from typing import Dict
 print('''
 \033[1;92m Recoded By PiomroX
 Telegram:https://m.me/cool.piomrox
-Copy This Code:\nsudo python Rox/birihack.py -i wlan0 -K\n
+
+Copy This Code:\nsudo python Rox/roxhack.py -i wlan0 -K\n
+
 For Help Type:\npython Rox/roxhack.py --help\033[0m
 ''')
 class NetworkAddress:
